@@ -141,6 +141,36 @@
                         Op. Relacionais
                         </a>
                         </li>
+                        <li>
+                        <a href="exercicio.php?dir=controle&file=desafio_pi">
+                        Desafio PI
+                        </a>
+                        </li>
+                        <li>
+                        <a href="exercicio.php?dir=controle&file=operadores_logicos">
+                        Operadores Lógicos
+                        </a>
+                        </li>
+                        <li>
+                        <a href="exercicio.php?dir=controle&file=desafio_op_logicos">
+                        Desafio Op. logicos
+                        </a>
+                        </li>
+                        <li>
+                        <a href="exercicio.php?dir=controle&file=operador_ternario">
+                        Operador Ternário
+                        </a>
+                        </li>
+                        <li>
+                        <a href="exercicio.php?dir=controle&file=switchs">
+                        Operador Switch
+                        </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=desafio_switch">
+                                Desafio
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
