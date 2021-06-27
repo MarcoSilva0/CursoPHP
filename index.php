@@ -173,6 +173,71 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo laranja">
+                <h3>Array</h3>
+                <ul>
+                    <li>
+                        <a href="exercicio.php?dir=array&file=basico">
+                        Básico
+                        </a>
+                    </li>
+                    <li>
+                        <a href="exercicio.php?dir=array&file=mapa">
+                        Mapa
+                        </a>
+                    </li>
+                    <li>
+                        <a href="exercicio.php?dir=array&file=desafio_array">
+                        Desafio Array 1
+                        </a>
+                    </li>
+                    <li>
+                        <a href="exercicio.php?dir=array&file=desafio_meses">
+                        Desafio Array 2 - Meses
+                        </a>
+                    </li>
+                    <li>
+                        <a href="exercicio.php?dir=array&file=operacoes">
+                        Operações com Arrays
+                        </a>
+                    </li>
+                    <li>
+                        <a href="exercicio.php?dir=array&file=desafio_sorteio">
+                        Sorteio
+                        </a>
+                    </li>
+                    <li>
+                        <a href="exercicio.php?dir=array&file=Multdimensionais">
+                        Arrays Multdimensionais
+                        </a>
+                    </li>
+                    <li>
+                        <a href="exercicio.php?dir=array&file=constante">
+                        Arrays Constantes
+                        </a>
+                    </li>
+                    <li>
+                        <a href="exercicio.php?dir=array&file=get">
+                        $_GET
+                        </a>
+                    </li>
+                    <li>
+                        <a href="exercicio.php?dir=array&file=post">
+                        $_POST
+                        </a>
+                    </li>
+                    </ul>
+                </div>
+                <div class="modulo laranja">
+                <h3>Array</h3>
+                <ul>
+                    <li>
+                        <a href="exercicio.php?dir=repeticoes&file=for">
+                        Básico
+                        </a>
+                    </li>
+                </ul>
+                </div>
             </nav>
         </div>
     </main>
