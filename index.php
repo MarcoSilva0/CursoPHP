@@ -334,7 +334,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=funcoes&file=map_filter.php">
+                         <a href="exercicio.php?dir=funcoes&file=map_filter">
                                 Map e Filter
                             </a>
                         </li>
