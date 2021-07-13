@@ -340,6 +340,36 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo azul-escuro">
+                    <h3>Orientação ao Objeto</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objetos&file=classe">
+                                Primeira classe
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objetos&file=desafio_classe">
+                                Desafio Classe
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objetos&file=Construtor_destrutor">
+                            Const. e destr.
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objetos&file=heranca">
+                            Herança
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objetos&file=visibilidade">
+                            Visibilidade
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
