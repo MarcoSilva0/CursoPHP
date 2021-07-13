@@ -343,29 +343,84 @@
                 <div class="modulo azul-escuro">
                     <h3>Orientação ao Objeto</h3>
                     <ul>
-                        <li>
+                    <li>
                             <a href="exercicio.php?dir=classe_objetos&file=classe">
-                                Primeira classe
+                                Primeira Classe
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=classe_objetos&file=desafio_classe">
-                                Desafio Classe
+                            <a href="exercicio.php?dir=classe_objetos&file=data">
+                                Classe Data
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=classe_objetos&file=Construtor_destrutor">
-                            Const. e destr.
+                            <a href="exercicio.php?dir=classe_objetos&file=construtor_destrutor">
+                                Const. e Destrutor
                             </a>
                         </li>
                         <li>
                             <a href="exercicio.php?dir=classe_objetos&file=heranca">
-                            Herança
+                                Herança
                             </a>
                         </li>
                         <li>
                             <a href="exercicio.php?dir=classe_objetos&file=visibilidade">
-                            Visibilidade
+                                Visibilidade
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objetos&file=static">
+                                Membros Estáticos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objetos&file=interface">
+                                Interface
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objetos&file=abstract">
+                                Classe Abstrata
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objetos&file=desafio_erros">
+                                Desafio Erros
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objetos&file=final">
+                                Modificador Final
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objetos&file=traits_01">
+                                Traits #01
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objetos&file=traits_02">
+                                Traits #02
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objetos&file=magic_methods">
+                                Métodos Mágicos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objetos&file=polimorfismo">
+                                Polimorfismo
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="modulo azul-escuro">
+                    <h3>POO Curso em vídeo</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=cursoPOO&file=primeiraClasse">
+                                Primeira Classe
                             </a>
                         </li>
                     </ul>
