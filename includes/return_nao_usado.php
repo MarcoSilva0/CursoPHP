@@ -1,0 +1,2 @@
+<?php
+$variavelDeclarada = 'Variavel retornada';

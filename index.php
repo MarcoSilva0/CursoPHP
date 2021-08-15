@@ -425,6 +425,46 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo roxo-escuro">
+                    <h3>Includes</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=includes&file=include">
+                                Include
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=includes&file=include_funcao">
+                                Include Função
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=includes&file=include_require">
+                                Include vs Require
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=includes&file=require_return">
+                                Require com retorno
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=includes&file=include_once">
+                                Include e Require Once
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="modulo laranja-escuro">
+                    <h3>Namespace</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=namespace&file=exemplo_basico">
+                                Exemplo Básico
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
